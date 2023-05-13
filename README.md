@@ -3,11 +3,11 @@
 
 es el momento de poner en práctica lo aprendido y para ello te pido que puedas clonar la interfaz de Google siguiendo los siguientes pasos:
 ## Índice
-* [1.Íntro](#)
-* [2.Demo](#)
-* [3.¿Qué construirás?](#)
-* [4.Objetivos de Apredizaje](#)
-* [5.Requisitos](#)
+* [1.Íntro](https://github.com/alexminmanzoolguin/ClonaciondepaginaGOOGLE#1-%C3%ADntro)
+* [2.Demo](https://github.com/alexminmanzoolguin/ClonaciondepaginaGOOGLE#2-demo)
+* [3.¿Qué construirás?](https://github.com/alexminmanzoolguin/ClonaciondepaginaGOOGLE#3-qu%C3%A9-construir%C3%A1s)
+* [4.Objetivos de Apredizaje](https://github.com/alexminmanzoolguin/ClonaciondepaginaGOOGLE#3-qu%C3%A9-construir%C3%A1s)
+
 
 
 # 1. Íntro
